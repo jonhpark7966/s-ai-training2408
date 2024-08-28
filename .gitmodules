@@ -1,3 +1,36 @@
 [submodule "QuizGenerator"]
 	path = QuizGenerator
 	url = https://github.com/jonhpark7966/QuizGenerator
+[submodule "Auto_Post_Gen"]
+	path = Auto_Post_Gen
+	url = https://github.com/ddeji99/Auto_Post_Gen
+[submodule "S_AI_Project"]
+	path = S_AI_Project
+	url = https://github.com/Kwon-m-s/S_AI_Project
+[submodule "TEAMPRO"]
+	path = TEAMPRO
+	url = https://github.com/whysocscs/TEAMPRO
+[submodule "Today-s-KBO-win-rate-Prediction"]
+	path = Today-s-KBO-win-rate-Prediction
+	url = https://github.com/hyeseung39/Today-s-KBO-win-rate-Prediction
+[submodule "recipe-suggestion-chatbot"]
+	path = recipe-suggestion-chatbot
+	url = https://github.com/SangHyunPark1213/recipe-suggestion-chatbot
+[submodule "News_Summarizer"]
+	path = News_Summarizer
+	url = https://github.com/kimgahyun-hub/News_Summarizer
+[submodule "foodloris-classify"]
+	path = foodloris-classify
+	url = https://github.com/la-s-in-hyeok/foodloris-classify
+[submodule "S-AI_Project"]
+	path = S-AI_Project
+	url = https://github.com/euijunp/S-AI_Project
+[submodule "S-AI_Training_Deepfake"]
+	path = S-AI_Training_Deepfake
+	url = https://github.com/guswjddl4313/S-AI_Training_Deepfake
+[submodule "Vulnerable-Chatbot-made-with-LangChain"]
+	path = Vulnerable-Chatbot-made-with-LangChain
+	url = https://github.com/marimo00/Vulnerable-Chatbot-made-with-LangChain
+[submodule "Tourist"]
+	path = Tourist
+	url = https://github.com/ChanHyeokKong/Tourist
