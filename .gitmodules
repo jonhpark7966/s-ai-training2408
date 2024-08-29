@@ -34,3 +34,6 @@
 [submodule "Tourist"]
 	path = Tourist
 	url = https://github.com/ChanHyeokKong/Tourist
+[submodule "S-AI"]
+	path = S-AI
+	url = https://github.com/8sheeta8/S-AI.git
