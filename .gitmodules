@@ -1,9 +1,6 @@
 [submodule "QuizGenerator"]
 	path = QuizGenerator
 	url = https://github.com/jonhpark7966/QuizGenerator
-[submodule "Auto_Post_Gen"]
-	path = Auto_Post_Gen
-	url = https://github.com/ddeji99/Auto_Post_Gen
 [submodule "S_AI_Project"]
 	path = S_AI_Project
 	url = https://github.com/Kwon-m-s/S_AI_Project
