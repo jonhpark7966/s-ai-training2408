@@ -34,3 +34,6 @@
 [submodule "S-AI"]
 	path = S-AI
 	url = https://github.com/8sheeta8/S-AI.git
+[submodule "Auto_Post_Gen"]
+	path = Auto_Post_Gen
+	url = https://github.com/ddeji99/Auto_Post_Gen
