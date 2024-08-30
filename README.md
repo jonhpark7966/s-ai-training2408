@@ -2,7 +2,7 @@
 
 ## S-AI Training Projects Repo
   - 2024.08.28 ~ 2024.08.30
-  - 정제영: https : https://github.com/ddeji99/Auto_Post_Gen
+  - 정제영: https://github.com/ddeji99/Auto_Post_Gen
   - 권민석, 조윤호, 한재혁 :	https://github.com/Kwon-m-s/S_AI_Project
   - 유현영, 김기원, 이상호 :	https://github.com/whysocscs/TEAMPRO
   - 권도원, 임정규, 신혜승 :	https://github.com/hyeseung39/Today-s-KBO-win-rate-Prediction
