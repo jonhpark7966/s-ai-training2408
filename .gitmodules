@@ -10,9 +10,6 @@
 [submodule "Today-s-KBO-win-rate-Prediction"]
 	path = Today-s-KBO-win-rate-Prediction
 	url = https://github.com/hyeseung39/Today-s-KBO-win-rate-Prediction
-[submodule "recipe-suggestion-chatbot"]
-	path = recipe-suggestion-chatbot
-	url = https://github.com/SangHyunPark1213/recipe-suggestion-chatbot
 [submodule "News_Summarizer"]
 	path = News_Summarizer
 	url = https://github.com/kimgahyun-hub/News_Summarizer
